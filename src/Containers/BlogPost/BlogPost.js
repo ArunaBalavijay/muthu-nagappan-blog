@@ -189,12 +189,12 @@ export default function BlogHome() {
           >
             {blog.body}
           </Markdown>
-          {addReaction && (
-            <span className="reaction-github-emoji anim-scale-in">
+          {/* {addReaction && (
+            <span className="reaction-github-emoji anim-scale-in"> */}
               {/* <GithubSelector onSelect={emoji => onEmojiSelect(emoji)} /> */}
-              <GithubReactionTextCard link={blog.url}/>
+              {/* <GithubReactionTextCard link={blog.url}/>
             </span>
-          )}
+          )} */}
           {/* <GithubCounter counters={reactionCounter} onSelect={emoji => githubCounterEmojiSelect(emoji)} onAdd={() => githubCounterAddReaction()} /> */}
         </div>
       )}
