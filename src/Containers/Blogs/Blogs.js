@@ -53,8 +53,7 @@ function Blogs() {
         `
       })
       .then(result => {
-        const { issues } = (result.data.repository || {});
-        setBlogsFunction(result.data.repository ? result.data.repository.issues.nodes);
+        setBlogsFunction(result.data.repository.issues.nodes);
       });
   }, []);
 
@@ -63,6 +62,12 @@ function Blogs() {
   }, [getBlogsFromGithubIssues]);
 
   function setBlogsFunction(array) {
+    array.sort((left, right) => {
+      const dateTime = (obj) => new Date(obj.updatedAt).getTime();
+      return dateTime(left) > dateTime(right) ? -1 : (
+        dateTime(right) > dateTime(left) ? -1 : 0
+      );
+    })
     setBlogs(array);
   }
   return (

@@ -9,8 +9,8 @@ export const config = {
   githubRepo: "muthu-nagappan-blog",
 
   // Your Personal Blog Title
-  title : "Saad Pasta" ,
+  title : "Muthu Nagappan's blog" ,
 
   // Your Personal Blog Subtitle
-  subtitle : "Front End Developer Blog"
+  subtitle : "Expect the unexpected"
 };
