@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/muthu-nagappan-blog/static/css/main.6a9bcb70.chunk.css",
-    "main.js": "/muthu-nagappan-blog/static/js/main.c4db4539.chunk.js",
-    "main.js.map": "/muthu-nagappan-blog/static/js/main.c4db4539.chunk.js.map",
+    "main.js": "/muthu-nagappan-blog/static/js/main.0ad96b21.chunk.js",
+    "main.js.map": "/muthu-nagappan-blog/static/js/main.0ad96b21.chunk.js.map",
     "runtime-main.js": "/muthu-nagappan-blog/static/js/runtime-main.267a01d1.js",
     "runtime-main.js.map": "/muthu-nagappan-blog/static/js/runtime-main.267a01d1.js.map",
-    "static/js/2.4ece8cba.chunk.js": "/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js",
-    "static/js/2.4ece8cba.chunk.js.map": "/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js.map",
+    "static/js/2.94eeae51.chunk.js": "/muthu-nagappan-blog/static/js/2.94eeae51.chunk.js",
+    "static/js/2.94eeae51.chunk.js.map": "/muthu-nagappan-blog/static/js/2.94eeae51.chunk.js.map",
     "index.html": "/muthu-nagappan-blog/index.html",
-    "precache-manifest.490bcb6dd274bde90f679d0c95de1464.js": "/muthu-nagappan-blog/precache-manifest.490bcb6dd274bde90f679d0c95de1464.js",
+    "precache-manifest.1a62cee520aca90c88c0fd8f43b08c04.js": "/muthu-nagappan-blog/precache-manifest.1a62cee520aca90c88c0fd8f43b08c04.js",
     "service-worker.js": "/muthu-nagappan-blog/service-worker.js",
     "static/css/main.6a9bcb70.chunk.css.map": "/muthu-nagappan-blog/static/css/main.6a9bcb70.chunk.css.map",
-    "static/js/2.4ece8cba.chunk.js.LICENSE": "/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js.LICENSE"
+    "static/js/2.94eeae51.chunk.js.LICENSE": "/muthu-nagappan-blog/static/js/2.94eeae51.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.267a01d1.js",
-    "static/js/2.4ece8cba.chunk.js",
+    "static/js/2.94eeae51.chunk.js",
     "static/css/main.6a9bcb70.chunk.css",
-    "static/js/main.c4db4539.chunk.js"
+    "static/js/main.0ad96b21.chunk.js"
   ]
 }
