@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArunaBalavijay/muthu-nagappan-blog/static/css/main.6a9bcb70.chunk.css",
+    "main.js": "/ArunaBalavijay/muthu-nagappan-blog/static/js/main.3420eeaa.chunk.js",
+    "main.js.map": "/ArunaBalavijay/muthu-nagappan-blog/static/js/main.3420eeaa.chunk.js.map",
+    "runtime-main.js": "/ArunaBalavijay/muthu-nagappan-blog/static/js/runtime-main.6db69ee9.js",
+    "runtime-main.js.map": "/ArunaBalavijay/muthu-nagappan-blog/static/js/runtime-main.6db69ee9.js.map",
+    "static/js/2.4ece8cba.chunk.js": "/ArunaBalavijay/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js",
+    "static/js/2.4ece8cba.chunk.js.map": "/ArunaBalavijay/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js.map",
+    "index.html": "/ArunaBalavijay/muthu-nagappan-blog/index.html",
+    "precache-manifest.78611b7f3d2f6cee6b63743c13a07c0e.js": "/ArunaBalavijay/muthu-nagappan-blog/precache-manifest.78611b7f3d2f6cee6b63743c13a07c0e.js",
+    "service-worker.js": "/ArunaBalavijay/muthu-nagappan-blog/service-worker.js",
+    "static/css/main.6a9bcb70.chunk.css.map": "/ArunaBalavijay/muthu-nagappan-blog/static/css/main.6a9bcb70.chunk.css.map",
+    "static/js/2.4ece8cba.chunk.js.LICENSE": "/ArunaBalavijay/muthu-nagappan-blog/static/js/2.4ece8cba.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db69ee9.js",
+    "static/js/2.4ece8cba.chunk.js",
+    "static/css/main.6a9bcb70.chunk.css",
+    "static/js/main.3420eeaa.chunk.js"
+  ]
+}
