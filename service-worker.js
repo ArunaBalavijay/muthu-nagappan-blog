@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/muthu-nagappan-blog/precache-manifest.1a62cee520aca90c88c0fd8f43b08c04.js"
+  "/muthu-nagappan-blog/precache-manifest.0af11e43558d3029a64cb42915bcb9a9.js"
 );
 
 self.addEventListener('message', (event) => {

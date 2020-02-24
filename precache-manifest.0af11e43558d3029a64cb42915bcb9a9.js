@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a7052468d301336bee1f4687b8f8b08",
+    "revision": "2b2637647b6234083813d3454f639801",
     "url": "/muthu-nagappan-blog/index.html"
   },
   {
-    "revision": "fe8c035e06651d0e36e4",
+    "revision": "61b141e426c919d1f7a2",
     "url": "/muthu-nagappan-blog/static/css/main.6a9bcb70.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/muthu-nagappan-blog/static/js/2.94eeae51.chunk.js.LICENSE"
   },
   {
-    "revision": "fe8c035e06651d0e36e4",
-    "url": "/muthu-nagappan-blog/static/js/main.0ad96b21.chunk.js"
+    "revision": "61b141e426c919d1f7a2",
+    "url": "/muthu-nagappan-blog/static/js/main.96c7e5e4.chunk.js"
   },
   {
     "revision": "7303553894cbe82683e7",
