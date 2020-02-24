@@ -53,7 +53,8 @@ function Blogs() {
         `
       })
       .then(result => {
-        setBlogsFunction(result.data.repository.issues.nodes);
+        const { issues } = (result.data.repository || {});
+        setBlogsFunction(result.data.repository ? result.data.repository.issues.nodes);
       });
   }, []);
 
