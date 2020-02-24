@@ -170,7 +170,7 @@ export default function BlogHome() {
               <div>
                 <p className="author-name">{blog.author.login}</p>
                 <p className="blog-date">
-                  {moment(blog.updatedAt).format("DD MMM YYYY")} . {readingTime(blog.body).minutes} Min Read . <a href={blog.url} target="_black">View On Github</a>
+                  {moment(blog.updatedAt).format("DD MMM YYYY")} . {readingTime(blog.body).minutes} Min Read
                 </p>
               </div>
             </div>
@@ -195,7 +195,7 @@ export default function BlogHome() {
               <GithubReactionTextCard link={blog.url}/>
             </span>
           )}
-          <GithubCounter counters={reactionCounter} onSelect={emoji => githubCounterEmojiSelect(emoji)} onAdd={() => githubCounterAddReaction()} />
+          {/* <GithubCounter counters={reactionCounter} onSelect={emoji => githubCounterEmojiSelect(emoji)} onAdd={() => githubCounterAddReaction()} /> */}
         </div>
       )}
     </div>
